@@ -1,5 +1,8 @@
 React Fundamentals - Ignite Trail
 
+![alt text](https://i.imgur.com/sHNnVU4.png)
+
+
 deploy
 https://01-ignite-rocketseat.vercel.app/
 
